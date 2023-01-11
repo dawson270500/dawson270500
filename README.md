@@ -1,5 +1,6 @@
 - Hi, I’m Bailey Dawson
-- I’m interested in Web Development and Games Development
+- I currently work in Embedded Software
+- I like working with C++ and Rust mainly, though I have dabbled in PHP
 - How to reach me:
   - Discord: dawson27500#6969
   - Email: dawson270500@gmail.com
